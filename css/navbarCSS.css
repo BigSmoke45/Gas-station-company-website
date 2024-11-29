@@ -1,0 +1,39 @@
+.navbar > .container {
+  justify-content: flex-start;
+}
+
+.mybg {
+  opacity: 1;
+  background-color: #4c7a34;
+}
+
+body {
+  background-color: #222629 !important;
+  font-family: "Roboto", sans-serif !important;
+}
+
+.navbar-brand {
+  margin-right: 0.5em !important;
+}
+
+.logoP {
+  color: black;
+  display: inline-block;
+  flex-basis: auto;
+  align-items: center;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: auto;
+  margin-top: auto;
+  font-family: "Rock Salt", cursive !important;
+  font-size: x-large !important;
+  /* margin-right: 10em; */
+}
+
+.logoPI {
+  pointer-events: none;
+}
+
+.container {
+  max-width: 1450px !important;
+}
