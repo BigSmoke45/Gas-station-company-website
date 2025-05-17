@@ -1,2 +1,2 @@
 # Gas-station-company-website
-Project for the University, version 1.0
+Pet-project for the University, version 1.0
